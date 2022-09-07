@@ -290,9 +290,8 @@ plt.show()
 ```
 
 
-    
-![png](output_4_0.png)
-    
+
+![output_4_0](https://user-images.githubusercontent.com/112631941/188785857-a7ab77c0-2524-449b-9db1-9f0d62e4dc6d.png)
 
 
 
@@ -313,7 +312,7 @@ plt.show()
 
 
     
-![png](output_5_0.png)
+![output_5_0](https://user-images.githubusercontent.com/112631941/188785925-f4b26238-1195-4d2c-95a9-0298e4215a07.png)
     
 
 
@@ -336,7 +335,7 @@ plt.show()
 
 
     
-![png](output_7_0.png)
+![output_7_0](https://user-images.githubusercontent.com/112631941/188785952-a8f8207a-838f-4d2e-8954-7d1cef020854.png)
     
 
 
@@ -353,8 +352,7 @@ plt.show()
 
 
     
-![png](output_8_0.png)
-    
+![output_8_0](https://user-images.githubusercontent.com/112631941/188785975-1d6c69fd-b5de-4c1e-a39d-d672e68ddc57.png)    
 
 
 
@@ -375,7 +373,7 @@ plt.show()
 
 
     
-![png](output_9_0.png)
+![output_9_0](https://user-images.githubusercontent.com/112631941/188785992-2a5b3c33-5a12-447e-811d-edd3d136672b.png)
     
 
 
@@ -389,8 +387,7 @@ plt.show()
 ```
 
 
-    
-![png](output_10_0.png)
+![output_10_0](https://user-images.githubusercontent.com/112631941/188786006-ec4aef32-cc3f-4c9a-9651-cf9cde0ae071.png)
     
 
 
@@ -405,8 +402,7 @@ plt.show()
 ```
 
 
-    
-![png](output_12_0.png)
+![output_12_0](https://user-images.githubusercontent.com/112631941/188786028-4d13fa0a-9fca-47f3-bcdb-55c6e1168081.png)
     
 
 
@@ -428,8 +424,8 @@ plt.show()
 ```
 
 
-    
-![png](output_14_0.png)
+
+![output_14_0](https://user-images.githubusercontent.com/112631941/188786041-42c57785-cef6-4457-bbf5-b5c62f9231f1.png)
     
 
 
@@ -449,8 +445,8 @@ plt.show()
 
 
     
-![png](output_15_0.png)
-    
+![output_15_0](https://user-images.githubusercontent.com/112631941/188786073-5700796b-0441-4dc4-a117-1a0d2dde643c.png)
+
 
 
 Scatterplot
@@ -467,7 +463,7 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![output_17_0](https://user-images.githubusercontent.com/112631941/188786101-f7d79e89-0fd0-41f1-969f-0b45e33eaf0c.png)
     
 
 
@@ -509,6 +505,9 @@ plt.show()
 
 
     
-![png](output_19_0.png)
+![output_19_0](https://user-images.githubusercontent.com/112631941/188786126-6b505e11-9f5c-4145-acaa-a349c7904856.png)
+
+
+
     
 
