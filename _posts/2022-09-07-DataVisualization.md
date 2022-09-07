@@ -294,7 +294,7 @@ plt.show()
 
 
 
-<center>![output_4_0](https://user-images.githubusercontent.com/112631941/188785857-a7ab77c0-2524-449b-9db1-9f0d62e4dc6d.png)</center>
+<center><img src ="https://user-images.githubusercontent.com/112631941/188785857-a7ab77c0-2524-449b-9db1-9f0d62e4dc6d.png")></center>
 
 
 
@@ -315,7 +315,7 @@ plt.show()
 
 
     
-<center>![output_5_0](https://user-images.githubusercontent.com/112631941/188785925-f4b26238-1195-4d2c-95a9-0298e4215a07.png)</center>
+<center><img src = "https://user-images.githubusercontent.com/112631941/188785925-f4b26238-1195-4d2c-95a9-0298e4215a07.png")</center>
     
 
 
@@ -338,7 +338,7 @@ plt.show()
 
 
     
-<center>![output_7_0](https://user-images.githubusercontent.com/112631941/188785952-a8f8207a-838f-4d2e-8954-7d1cef020854.png){: .center}</center>
+<center><img src = "https://user-images.githubusercontent.com/112631941/188785952-a8f8207a-838f-4d2e-8954-7d1cef020854.png"></center>
     
 
 
