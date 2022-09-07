@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "Data Visualization 20220907"
+---
+
 ```python
 import pandas as pd
 import numpy as np
