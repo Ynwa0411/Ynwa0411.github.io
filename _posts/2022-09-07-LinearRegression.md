@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "Linear Regression 20220907"
+---
+
 1. MSE를 이용한 Linear Regression
 
 
@@ -10,7 +15,7 @@ Image(r"MSE.png")
 
 
     
-![png](output_1_0.png)
+<img width="456" alt="output_1_0" src="https://user-images.githubusercontent.com/112631941/188786615-78703961-9aa2-4b10-8ba9-befbadd936b1.png">
     
 
 
@@ -102,7 +107,7 @@ print('Regression line is {}+{}x'.format(w[0][0],w[1][0]))
 
 
     
-![png](output_7_0.png)
+![output_7_0](https://user-images.githubusercontent.com/112631941/188786635-34d9d4f1-cc76-4d02-b899-ba92b2dbaacc.png)
     
 
 
@@ -133,7 +138,7 @@ plt.show()
 
 
     
-![png](output_8_0.png)
+![output_8_0](https://user-images.githubusercontent.com/112631941/188786650-4d36c3ed-2bb3-45e3-9a40-d51c8387bdaf.png)
     
 
 
@@ -148,7 +153,7 @@ Image('MSE2.png')
 
 
     
-![png](output_10_0.png)
+<img width="316" alt="output_10_0" src="https://user-images.githubusercontent.com/112631941/188786673-3e4c43f0-c9cc-401d-9040-4f79c937f0d5.png">
     
 
 
@@ -238,7 +243,7 @@ plt.show()
 
 
     
-![png](output_14_0.png)
+![output_14_0](https://user-images.githubusercontent.com/112631941/188786702-2b3ff36b-70ef-4c40-b85d-b13cef9df121.png)
     
 
 
@@ -258,7 +263,7 @@ plt.show()
 
 
     
-![png](output_15_0.png)
+![output_15_0](https://user-images.githubusercontent.com/112631941/188786714-fc6d8097-9108-4f78-b117-43e800b8c5bc.png)
     
 
 
@@ -349,7 +354,7 @@ print('Regression line is {}+{}x+{}x**2'.format(w_poly[0][0],w_poly[1][0],w_poly
 
 
     
-![png](output_21_0.png)
+![output_21_0](https://user-images.githubusercontent.com/112631941/188786732-19afaad3-3746-41b8-8281-ed7ef63272da.png)
     
 
 
@@ -471,7 +476,7 @@ plt.show()
 
 
     
-![png](output_27_0.png)
+![output_27_0](https://user-images.githubusercontent.com/112631941/188786755-8510ca78-c98e-4f8c-b1a5-f19ed3c11174.png)
     
 
 
@@ -490,7 +495,7 @@ print('Regression line is {}+{}x+{}x**2'.format(wGD_poly[0][0],wGD_poly[1][0],wG
 
 
     
-![png](output_28_0.png)
+![output_28_0](https://user-images.githubusercontent.com/112631941/188786771-675b313f-07fb-4cb7-851d-2a59fa8952a8.png)
     
 
 
