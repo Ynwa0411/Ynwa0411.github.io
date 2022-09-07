@@ -27,7 +27,7 @@ plt.show()
 
 
     
-![png](output_2_0.png)
+![output_2_0](https://user-images.githubusercontent.com/112631941/188786829-c15c58b6-40de-494a-8299-28761e000b5c.png)
     
 
 
@@ -107,8 +107,7 @@ print("Prediction score is {}".format(Score))
 
 
     
-![png](output_7_0.png)
-    
+![output_7_0](https://user-images.githubusercontent.com/112631941/188786900-928a8d4e-8d59-414e-a5c0-88de536068bc.png)
 
 
     Prediction score is 0.85
@@ -182,8 +181,8 @@ print("Prediction score is {}".format(Score_sc))
 
 
     
-![png](output_11_0.png)
-    
+![output_11_0](https://user-images.githubusercontent.com/112631941/188786923-86c2731e-633d-4ee7-8e2c-740f63e5f47e.png)
+
 
 
     Prediction score is 0.9
@@ -206,8 +205,8 @@ print("Prediction score is {}".format(Score_sc))
 
 
     
-![png](output_12_0.png)
-    
+![output_12_0](https://user-images.githubusercontent.com/112631941/188786940-b46c67e6-dabe-4b5f-b3d1-f7a1e3feb468.png)
+
 
 
     Prediction score is 0.9
@@ -247,8 +246,8 @@ plt.show()
 
 
     
-![png](output_14_0.png)
-    
+![output_14_0](https://user-images.githubusercontent.com/112631941/188786956-c27958b9-5912-46a7-a3a1-8bb09fc8104e.png)
+
 
 
 
@@ -266,8 +265,8 @@ plt.show()
 
 
     
-![png](output_15_0.png)
-    
+![output_15_0](https://user-images.githubusercontent.com/112631941/188786966-69e06ea2-6b0a-4eda-a569-e5aa83af428c.png)
+
 
 
 
@@ -288,8 +287,8 @@ plt.show()
 
 
     
-![png](output_16_0.png)
-    
+![output_16_0](https://user-images.githubusercontent.com/112631941/188786979-25f365bf-a76c-4d06-8ad9-0329c1cd8793.png)
+
 
 
 
@@ -341,8 +340,8 @@ plt.show()
 
 
     
-![png](output_19_0.png)
-    
+![output_19_0](https://user-images.githubusercontent.com/112631941/188786999-4bf53871-5907-4ffc-aa88-683553464f20.png)
+
 
 
 3. GDM을 이용한 Multiclass Logistic Regression
@@ -368,8 +367,8 @@ plt.show()
 
 
     
-![png](output_21_0.png)
-    
+![output_21_0](https://user-images.githubusercontent.com/112631941/188787009-c36fc467-bff9-4366-875e-e2a7f0aa10b7.png)
+
 
 
 
@@ -391,8 +390,7 @@ for i in range(max_iter):
 w_1
 ```
 
-    C:\Users\윤철환\AppData\Local\Temp\ipykernel_15372\3394834638.py:2: RuntimeWarning: overflow encountered in exp
-      return 1 / (np.exp(-x)+1)
+
     
 
 
@@ -427,8 +425,8 @@ plt.show()
 
 
     
-![png](output_24_0.png)
-    
+![output_24_0](https://user-images.githubusercontent.com/112631941/188787033-2a1890f6-34d4-4fa5-8662-e7dc75120be7.png)
+
 
 
 
@@ -481,6 +479,6 @@ plt.show()
 
 
     
-![png](output_27_0.png)
-    
+![output_27_0](https://user-images.githubusercontent.com/112631941/188787065-a9debd18-169c-465e-a953-71f160ed30a7.png)
+
 
