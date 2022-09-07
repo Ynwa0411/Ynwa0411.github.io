@@ -15,8 +15,10 @@ key = pd.read_csv(r"C:\Users\윤철환\Desktop\Louis\VS_practice2\key_stats.csv"
 key.head()
 ```
 
-
-
+.center {
+  display: block;
+  margin: auto;
+}
 
 <div>
 <style scoped>
@@ -296,7 +298,7 @@ plt.show()
 
 
 
-![output_4_0](https://user-images.githubusercontent.com/112631941/188785857-a7ab77c0-2524-449b-9db1-9f0d62e4dc6d.png)
+![output_4_0](https://user-images.githubusercontent.com/112631941/188785857-a7ab77c0-2524-449b-9db1-9f0d62e4dc6d.png){: .center}
 
 
 
