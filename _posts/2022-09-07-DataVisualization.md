@@ -319,7 +319,7 @@ plt.show()
 
 
     
-![output_5_0](https://user-images.githubusercontent.com/112631941/188785925-f4b26238-1195-4d2c-95a9-0298e4215a07.png)
+![output_5_0](https://user-images.githubusercontent.com/112631941/188785925-f4b26238-1195-4d2c-95a9-0298e4215a07.png){: .center}
     
 
 
