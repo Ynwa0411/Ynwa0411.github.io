@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "Logistic Regression 20220907"
+---
+
 1. GDM을 이용한 Logistic Regression
 
 
