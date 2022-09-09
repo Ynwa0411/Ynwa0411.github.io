@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "Clustering 20220909"
+---
+
 1. KNN clustering
 
 
@@ -38,8 +43,7 @@ plt.show()
 
 
     
-![png](output_2_0.png)
-    
+<center><img src = "https://user-images.githubusercontent.com/112631941/189258315-5fe749de-45d0-4ec3-a1d8-e62e5a3f2f7d.png"></center>
 
 
 
@@ -56,7 +60,7 @@ plt.show()
 
 
     
-![png](output_3_0.png)
+<center><img src = "https://user-images.githubusercontent.com/112631941/189258402-be9a9c5c-ca37-42b4-adf7-bf3e5061f46c.png"></center>
     
 
 
@@ -116,9 +120,8 @@ plt.show()
 
 
     
-![png](output_7_0.png)
+<center><img src = "https://user-images.githubusercontent.com/112631941/189258479-bd12d021-5939-4daa-a657-058229eac5d4.png"></center>
     
-
 
 
 ```python
@@ -139,7 +142,7 @@ plt.show()
 
 
     
-![png](output_8_0.png)
+<center><img src = "https://user-images.githubusercontent.com/112631941/189258554-685c2b39-26bf-4baf-98dd-ae27851b6389.png"></center>
     
 
 
@@ -262,7 +265,7 @@ print("Centroid of 1 is {}, {}".format(z[1,0], z[1,1]))
 
 
     
-![png](output_17_0.png)
+<center><img src = "https://user-images.githubusercontent.com/112631941/189258623-1924555e-66b4-407c-910e-c1a7908bf115.png"></center>
     
 
 
@@ -290,7 +293,7 @@ print("Centroid of 1 is {}, {}".format(centers[1,0], centers[1,1]))
 
 
     
-![png](output_19_0.png)
+<center><img src = "https://user-images.githubusercontent.com/112631941/189258704-c42d34eb-a408-4fa2-b5b4-21c1a94848b8.png"></center>
     
 
 
@@ -314,9 +317,8 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+<center><img src = "https://user-images.githubusercontent.com/112631941/189258756-ca4e955b-21dd-4d62-8cad-0c8cd5227578.png"></center>
     
-
 
 
 ```python
@@ -360,9 +362,8 @@ plt.show()
 
 
     
-![png](output_24_0.png)
+<center><img src = "https://user-images.githubusercontent.com/112631941/189258820-4577851b-3569-4ff1-8c60-c6377a114b97.png"></center>
     
-
 
 
 ```python
@@ -460,7 +461,7 @@ print("centroid of sample 1 is {}, {}".format(np.mean(d2[:,0]), np.mean(d2[:,1])
 
 
     
-![png](output_29_0.png)
+<center><img src = "https://user-images.githubusercontent.com/112631941/189258893-2aff2cf4-ff3f-4727-8298-6f8fe7971dc3.png"></center>
     
 
 
