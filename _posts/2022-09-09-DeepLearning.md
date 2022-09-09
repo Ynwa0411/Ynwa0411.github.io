@@ -82,13 +82,13 @@ plt.show()
 
 
     
-![png](output_4_0.png)
+![output_4_0](https://user-images.githubusercontent.com/112631941/189262206-9dcf1980-80a5-4c34-aa75-3e3ba28e5228.png)
     
 
 
 
     
-![png](output_4_1.png)
+![output_4_1](https://user-images.githubusercontent.com/112631941/189262224-5e17a2e8-9f60-47e9-bf78-8750e91a5683.png)
     
 
 
@@ -110,7 +110,7 @@ plt.show()
 
 
     
-![png](output_6_1.png)
+![output_6_1](https://user-images.githubusercontent.com/112631941/189262247-c2fff1c6-f2a9-4b73-86fd-0ed55d432e09.png)
     
 
 
@@ -590,7 +590,7 @@ plt.show()
 
 
     
-![png](output_20_0.png)
+![output_20_0](https://user-images.githubusercontent.com/112631941/189262310-08c0758c-da9d-49a8-9a76-3040d4be9c48.png)
     
 
 
@@ -701,8 +701,6 @@ for lr_test in [10**(-i) for i in range(10)]:
   print("lr : {} and prediction score is {}".format(lr_test, (success)/ (failure + success)))
 ```
 
-    C:\Users\윤철환\AppData\Local\Temp\ipykernel_14472\3133858287.py:13: RuntimeWarning: overflow encountered in exp
-      return 1 / (1+np.exp(-x))
     
 
     epoch : 0
@@ -1147,7 +1145,7 @@ plt.show()
 
 
     
-![png](output_28_0.png)
+![output_28_0](https://user-images.githubusercontent.com/112631941/189262391-0fdb45bb-2a2c-4868-ac30-247a53b7490b.png)
     
 
 
@@ -1245,61 +1243,61 @@ for i in range(10):
 
 
     
-![png](output_31_0.png)
+![output_31_0](https://user-images.githubusercontent.com/112631941/189262416-0b755ea0-53ff-478f-a6e9-a6ca4756cb54.png)
     
 
 
 
     
-![png](output_31_1.png)
+![output_31_1](https://user-images.githubusercontent.com/112631941/189262448-813f6c44-92c7-40ca-bf13-a4ea065882af.png)
     
 
 
 
     
-![png](output_31_2.png)
+![output_31_2](https://user-images.githubusercontent.com/112631941/189262463-b1bcdb06-0feb-4eda-b417-96fe4fcd2f96.png)
     
 
 
 
     
-![png](output_31_3.png)
+![output_31_3](https://user-images.githubusercontent.com/112631941/189262480-ea539a6c-83e4-4808-8e89-5f4e541e5aaa.png)
     
 
 
 
     
-![png](output_31_4.png)
+![output_31_4](https://user-images.githubusercontent.com/112631941/189262496-b0fb653b-6fa4-4885-9bba-92f89e658d5d.png)
     
 
 
 
     
-![png](output_31_5.png)
+![output_31_5](https://user-images.githubusercontent.com/112631941/189262516-55635509-dbda-4665-a033-3d0efabcd41f.png)
     
 
 
 
     
-![png](output_31_6.png)
+![output_31_6](https://user-images.githubusercontent.com/112631941/189262539-5403f4fc-3d0d-4d2e-ade8-61dd9052641c.png)
     
 
 
 
     
-![png](output_31_7.png)
+![output_31_7](https://user-images.githubusercontent.com/112631941/189262553-9586f089-01f5-4cc4-b827-326e8d8c1379.png)
     
 
 
 
     
-![png](output_31_8.png)
+![output_31_8](https://user-images.githubusercontent.com/112631941/189262572-0aa9a432-e11f-4473-b70f-e7450173b6a7.png)
     
 
 
 
     
-![png](output_31_9.png)
+![output_31_9](https://user-images.githubusercontent.com/112631941/189262598-1c4faf73-6e49-4805-8b0f-48378b3f2128.png)
     
 
 
@@ -1314,61 +1312,61 @@ for i in np.random.permutation(len(pred_failure_list))[:10]:
 
 
     
-![png](output_32_0.png)
+![output_32_0](https://user-images.githubusercontent.com/112631941/189262632-7d17a430-176e-4c8b-9763-f44c9e5c7751.png)
     
 
 
 
     
-![png](output_32_1.png)
+![output_32_1](https://user-images.githubusercontent.com/112631941/189262648-e5109f19-8cb9-4899-8f56-e7fe32339b6b.png)
     
 
 
 
     
-![png](output_32_2.png)
+![output_32_2](https://user-images.githubusercontent.com/112631941/189262665-34747bfe-ec8d-4280-b25d-b992b72ccef1.png)
     
 
 
 
     
-![png](output_32_3.png)
+![output_32_3](https://user-images.githubusercontent.com/112631941/189262682-ee7e1fb8-c524-438a-9e27-4b77165de12a.png)
     
 
 
 
     
-![png](output_32_4.png)
+![output_32_4](https://user-images.githubusercontent.com/112631941/189262704-f5da6267-efe4-400f-b811-3d40bb9cd1ae.png)
     
 
 
 
     
-![png](output_32_5.png)
+![output_32_5](https://user-images.githubusercontent.com/112631941/189262721-502dc740-18ad-4ea1-979f-af9586fc35cd.png)
     
 
 
 
     
-![png](output_32_6.png)
+![output_32_6](https://user-images.githubusercontent.com/112631941/189262739-c6be5d16-ec29-41f2-911a-0eaa0a563e2e.png)
     
 
 
 
     
-![png](output_32_7.png)
+![output_32_7](https://user-images.githubusercontent.com/112631941/189262751-127d736a-6db3-4e41-912c-02d7b6819148.png)
     
 
 
 
     
-![png](output_32_8.png)
+![output_32_8](https://user-images.githubusercontent.com/112631941/189262767-a4314145-34f7-42cf-ab08-3e5742d5e7e9.png)
     
 
 
 
     
-![png](output_32_9.png)
+![output_32_9](https://user-images.githubusercontent.com/112631941/189262791-74e58c55-3f98-4881-930c-2a9592f3cd83.png)
     
 
 
@@ -1394,7 +1392,7 @@ plt.show()
 
 
     
-![png](output_35_0.png)
+![output_35_0](https://user-images.githubusercontent.com/112631941/189262811-0a28ffa0-552c-4cc8-8a56-e742a720f335.png)
     
 
 
@@ -1459,6 +1457,6 @@ for i in range(10):
 
 
     
-![png](output_39_0.png)
+![output_39_0](https://user-images.githubusercontent.com/112631941/189262835-5d1abff4-e4ff-43fc-acc3-7ffb53d3027f.png)
     
 
