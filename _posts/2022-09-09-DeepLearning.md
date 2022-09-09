@@ -1,3 +1,8 @@
+---
+layout : single
+title : "Deep Learning 20220909"
+---
+
 Linear Regression using Tensorflow
 
 
