@@ -1441,22 +1441,22 @@ X_test_noise[X_test_noise>1.0] = 1.0
 
 ```python
 idxShuffle = np.random.permutation(len(X_test_noise))
-plt.figure(figsize = (10,30))
-plt.suptitle("Data vs Data + Noise")
+fig = plt.figure(figsize = (10,30))
+plt.suptitle("Input vs Output")
 plt.subplots_adjust(top = 0.96,hspace = 0.4)
 for i in range(10):
   idx = idxShuffle[i]
   hi = pct_noise.feedforward_2(X_test_noise[idx].reshape(1,-1)).reshape(28,28)
-  plt.subplot(10,2,2*i+1)
-  plt.title("{} (test)".format(np.argmax(y_test_onehot[idx])))
+  ax1 = fig.add_subplot(10,2,2*i+2)
+  plt.title("{} (Output)".format(np.argmax(y_test_onehot[idx])))
   plt.imshow(hi, cmap = cm.gray)
-  plt.subplot(10,2,2*i+2)
-  plt.title("{} (noise)".format(np.argmax(y_test_onehot[idx])))
+  ax2 = fig.add_subplot(10,2,2*i+1)
+  plt.title("{} (Input)".format(np.argmax(y_test_onehot[idx])))
   plt.imshow(X_test_noise[idx].reshape(28,28), cmap = cm.gray)
 ```
 
 
     
-![output_39_0](https://user-images.githubusercontent.com/112631941/189262835-5d1abff4-e4ff-43fc-acc3-7ffb53d3027f.png)
+![output_39_0](https://user-images.githubusercontent.com/112631941/189845900-ed9a391e-1af2-445d-aa84-ce5fff9a4377.png)
     
 
