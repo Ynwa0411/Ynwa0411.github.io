@@ -43,7 +43,7 @@ plt.show()
 
 
     
-![png](output_2_0.png)
+![output_2_0](https://user-images.githubusercontent.com/112631941/189841667-3386d546-7cda-448a-8dfb-3e52cd58cf03.png)
     
 
 
@@ -61,7 +61,7 @@ plt.show()
 
 
     
-![png](output_3_0.png)
+![output_3_0](https://user-images.githubusercontent.com/112631941/189841693-32b44da2-602c-4e2d-ad68-3f275264620f.png)
     
 
 
@@ -121,7 +121,7 @@ plt.show()
 
 
     
-![png](output_7_0.png)
+![output_7_0](https://user-images.githubusercontent.com/112631941/189841727-4b18457e-4f32-4567-b931-c262f00bad0e.png)
     
 
 
@@ -144,7 +144,7 @@ plt.show()
 
 
     
-![png](output_8_0.png)
+![output_8_0](https://user-images.githubusercontent.com/112631941/189841787-516612a3-b5af-42fd-87c2-b6c622f2a422.png)
     
 
 
@@ -267,7 +267,7 @@ print("Centroid of 1 is {}, {}".format(z[1,0], z[1,1]))
 
 
     
-![png](output_17_0.png)
+![output_17_0](https://user-images.githubusercontent.com/112631941/189841844-c0ea8848-b652-45a9-9d08-50078435e4ce.png)
     
 
 
@@ -295,7 +295,7 @@ print("Centroid of 1 is {}, {}".format(centers[1,0], centers[1,1]))
 
 
     
-![png](output_19_0.png)
+![output_19_0](https://user-images.githubusercontent.com/112631941/189841878-256b347c-c701-473d-8059-31ec490ca211.png)
     
 
 
@@ -319,7 +319,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![output_21_0](https://user-images.githubusercontent.com/112631941/189841926-4cf975e9-20b8-499d-9172-d91442abd981.png)
     
 
 
@@ -365,7 +365,7 @@ plt.show()
 
 
     
-![png](output_24_0.png)
+![output_24_0](https://user-images.githubusercontent.com/112631941/189841950-04d847bb-970e-4a52-b6ca-54b74d026068.png)
     
 
 
@@ -465,7 +465,7 @@ print("centroid of sample 1 is {}, {}".format(np.mean(d2[:,0]), np.mean(d2[:,1])
 
 
     
-![png](output_29_0.png)
+![output_29_0](https://user-images.githubusercontent.com/112631941/189841983-2915eb53-9eae-4335-be94-126fd6895425.png)
     
 
 
